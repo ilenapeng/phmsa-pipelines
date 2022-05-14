@@ -10,6 +10,7 @@ This article uses data on [incidents](https://www.phmsa.dot.gov/data-and-statist
     * 02-filter-columns.ipynb - Selects only the columns necessary for analysis
     * 03-mileage-over-time.ipynb - Totals the mileage of pipelines for gas transmission & gathering, gas distribution and hazardous liquid
     * 04-analysis.ipynb - Analysis used in the story
+    * 05-area-examples.ipynb - Selected examples of pipeline incidents mentioned in the story
 * Data folder:
     * Source folder: Raw data on pipeline incidents occurring after 2010 and pipeline mileage
     * Note: Data on mileage for each type of pipeline was only available for the following years - Gas distribution, 1984-2021; Gas transmission & gathering, 1984-2021; Hazardous liquid, 2004-2020
